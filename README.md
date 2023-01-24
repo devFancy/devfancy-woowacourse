@@ -22,16 +22,17 @@
 | 숫자 야구 게임  |[java-baseball-precourse](https://github.com/Fancy96/java-baseball/tree/fancy-review)|[Pull Request](https://github.com/woowacourse-precourse/java-baseball/pull/1001)|
 | 로또 게임 |[java-lotto-precourse](https://github.com/Fancy96/java-lotto/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-lotto/pull/877)|
 | 다리 건너기 게임 |[java-bridge-precourse](https://github.com/Fancy96/java-bridge/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-bridge/pull/851)|
-
+| 다리 건너기 게임 |[java-bridge-precourse](https://github.com/Fancy96/java-bridge/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-bridge/pull/851)|
 
 ### 미션 복습
 
 |  Project  |Repository |Pull Request |
 |:---------:|:---------:|:-----------:|
-| 숫자 야구 게임  |[java-baseball-review](https://github.com/Fancy96/java-baseball-review/tree/fancy-log2)|[Pull Request](https://github.com/Fancy96/java-baseball-review/pull/2)|
-| 로또 게임 |[java-lotto-review](https://github.com/Fancy96/java-lotto-review)|[Pull Request](https://github.com/Fancy96/java-lotto-review/pull/1)|
-| 다리 건너기 게임 |[java-bridge-review](https://github.com/Fancy96/java-bridge-review)|[Pull Request](https://github.com/Fancy96/java-bridge-review/pull/1)|
-| 페어매칭관리 애플리케이션 |[java-pairmatching-precourse](https://github.com/Fancy96/java-pairmatching-precourse-review)|[Pull Request](https://github.com/Fancy96/java-pairmatching-precourse-review/pull/1)|
+| 숫자 야구 게임  |[java-baseball-review](https://github.com/Fancy96/java-baseball/tree/fancy-review2)|[Pull Request](https://github.com/woowacourse-precourse/java-baseball/pull/1508)|
+| 로또 게임 |[java-lotto-review](https://github.com/Fancy96/java-lotto/tree/fancy-review)|[Pull Request](https://github.com/woowacourse-precourse/java-lotto/pull/1326)|
+| 다리 건너기 게임 |[java-bridge-review](https://github.com/Fancy96/java-bridge/tree/fancy-review)|[Pull Request](https://github.com/woowacourse-precourse/java-bridge/pull/1209)|
+| 페어매칭관리 애플리케이션 |[java-pairmatching-precourse](https://github.com/Fancy96/java-pairmatching-precourse/tree/fancy-review)|[Pull Request](https://github.com/woowacourse/java-pairmatching-precourse/pull/156)|
+
 
 ### 최종 코테 대비
 
