@@ -22,7 +22,6 @@
 | 숫자 야구 게임  |[java-baseball-precourse](https://github.com/Fancy96/java-baseball/tree/fancy-review)|[Pull Request](https://github.com/woowacourse-precourse/java-baseball/pull/1001)|
 | 로또 게임 |[java-lotto-precourse](https://github.com/Fancy96/java-lotto/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-lotto/pull/877)|
 | 다리 건너기 게임 |[java-bridge-precourse](https://github.com/Fancy96/java-bridge/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-bridge/pull/851)|
-| 다리 건너기 게임 |[java-bridge-precourse](https://github.com/Fancy96/java-bridge/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-bridge/pull/851)|
 
 ### 미션 복습
 
