@@ -18,19 +18,19 @@
 
 |  Project  |Repository |Pull Request |
 |:---------:|:---------:|:-----------:|
-| 미션 - 온보딩  |[java-onboarding](https://github.com/Fancy96/java-onboarding/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-onboarding/pull/1276)|
-| 숫자 야구 게임  |[java-baseball-precourse](https://github.com/Fancy96/java-baseball/tree/fancy-review)|[Pull Request](https://github.com/woowacourse-precourse/java-baseball/pull/1001)|
-| 로또 게임 |[java-lotto-precourse](https://github.com/Fancy96/java-lotto/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-lotto/pull/877)|
-| 다리 건너기 게임 |[java-bridge-precourse](https://github.com/Fancy96/java-bridge/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-bridge/pull/851)|
+| 미션 - 온보딩  |[java-onboarding](https://github.com/devFancy/java-onboarding/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-onboarding/pull/1276)|
+| 숫자 야구 게임  |[java-baseball-precourse](https://github.com/devFancy/java-baseball/tree/fancy-review)|[Pull Request](https://github.com/woowacourse-precourse/java-baseball/pull/1001)|
+| 로또 게임 |[java-lotto-precourse](https://github.com/devFancy/java-lotto/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-lotto/pull/877)|
+| 다리 건너기 게임 |[java-bridge-precourse](https://github.com/devFancy/java-bridge/tree/fancy-log)|[Pull Request](https://github.com/woowacourse-precourse/java-bridge/pull/851)|
 
 ### 미션 복습
 
 |  Project  |Repository |Pull Request |
 |:---------:|:---------:|:-----------:|
-| 숫자 야구 게임  |[java-baseball-review](https://github.com/Fancy96/java-baseball/tree/fancy-review2)|[Pull Request](https://github.com/woowacourse-precourse/java-baseball/pull/1508)|
-| 로또 게임 |[java-lotto-review](https://github.com/Fancy96/java-lotto/tree/fancy-review)|[Pull Request](https://github.com/woowacourse-precourse/java-lotto/pull/1326)|
-| 다리 건너기 게임 |[java-bridge-review](https://github.com/Fancy96/java-bridge/tree/fancy-review)|[Pull Request](https://github.com/woowacourse-precourse/java-bridge/pull/1209)|
-| 페어매칭관리 애플리케이션 |[java-pairmatching-precourse](https://github.com/Fancy96/java-pairmatching-precourse/tree/fancy-review)|[Pull Request](https://github.com/woowacourse/java-pairmatching-precourse/pull/156)|
+| 숫자 야구 게임  |[java-baseball-review](https://github.com/devFancy/java-baseball/tree/fancy-review2)|[Pull Request](https://github.com/woowacourse-precourse/java-baseball/pull/1508)|
+| 로또 게임 |[java-lotto-review](https://github.com/devFancy/java-lotto/tree/fancy-review)|[Pull Request](https://github.com/woowacourse-precourse/java-lotto/pull/1326)|
+| 다리 건너기 게임 |[java-bridge-review](https://github.com/devFancy/java-bridge/tree/fancy-review)|[Pull Request](https://github.com/woowacourse-precourse/java-bridge/pull/1209)|
+| 페어매칭관리 애플리케이션 |[java-pairmatching-precourse](https://github.com/devFancy/java-pairmatching-precourse/tree/fancy-review)|[Pull Request](https://github.com/woowacourse/java-pairmatching-precourse/pull/156)|
 
 
 ### 최종 코테 대비
@@ -45,22 +45,22 @@
 
 ### 블로그 포스팅
 
-* [[우아한테크코스] 코수타 내용 정리](https://fancy96.github.io/Woowacourse-Cosuta-Review/)
+* [[우아한테크코스] 코수타 내용 정리](https://devfancy.github.io/Woowacourse-Cosuta-Review/)
 
-* [[BE] 2주차 미션 회고 (숫자 야구 게임)](https://fancy96.github.io/Woowacourse-2th-Mission/)
+* [[BE] 2주차 미션 회고 (숫자 야구 게임)](https://devfancy.github.io/Woowacourse-2th-Mission/)
 
-* [[BE] 3주차 미션 회고 (로또 게임)](https://fancy96.github.io/Woowacourse-3th-Mission/)
+* [[BE] 3주차 미션 회고 (로또 게임)](https://devfancy.github.io/Woowacourse-3th-Mission/)
 
-* [[BE] 4주차 미션 회고 (다리 건너기)](https://fancy96.github.io/Woowacourse-4th-Mission/)
+* [[BE] 4주차 미션 회고 (다리 건너기)](https://devfancy.github.io/Woowacourse-4th-Mission/)
 
-* [Spring MVC 이해와 적용](https://fancy96.github.io/Spring-MVC-Concept/)
+* [Spring MVC 이해와 적용](https://devfancy.github.io/Spring-MVC-Concept/)
 
-* [Git 이란?](https://fancy96.github.io/Git-Concept/)
+* [Git 이란?](https://devfancy.github.io/Git-Concept/)
 
-* [커밋 메세지 규약 정리 (AngularJS)](https://fancy96.github.io/Git-Commit-Message/)
+* [커밋 메세지 규약 정리 (AngularJS)](https://devfancy.github.io/Git-Commit-Message/)
 
-* [AssertJ 개념 정리](https://fancy96.github.io/AssertJ-Concept/)
+* [AssertJ 개념 정리](https://devfancy.github.io/AssertJ-Concept/)
 
-* [fork 해온 repository 잔디 심는 방법](https://fancy96.github.io/Git-Fork-Repository/)
+* [fork 해온 repository 잔디 심는 방법](https://devfancy.github.io/Git-Fork-Repository/)
 
-* [다른 사람 혹은 나의 repository에 있는 branch 복사하기](https://fancy96.github.io/Git-My-Repository-Branch-Copy/)
+* [다른 사람 혹은 나의 repository에 있는 branch 복사하기](https://devfancy.github.io/Git-My-Repository-Branch-Copy/)
